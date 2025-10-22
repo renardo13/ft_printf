@@ -8,5 +8,3 @@ This project introduces variadic functions, which allow handling an unknown numb
 Supports conversions: %c, %s, %p, %d, %i, %u, %x, %X, and %%.
 
 Returns the number of printed characters.
-
-Reusable and efficient — mimics the behavior of the original printf.
